@@ -1,0 +1,5 @@
+pillow
+pafy
+tkintertable
+urllib3
+youtube_dl
